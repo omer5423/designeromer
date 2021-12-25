@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/designeromer/static/css/main.36047582.chunk.css",
+    "main.js": "/designeromer/static/js/main.fb13018b.chunk.js",
+    "main.js.map": "/designeromer/static/js/main.fb13018b.chunk.js.map",
+    "runtime-main.js": "/designeromer/static/js/runtime-main.614ad1d2.js",
+    "runtime-main.js.map": "/designeromer/static/js/runtime-main.614ad1d2.js.map",
+    "static/css/2.548a9565.chunk.css": "/designeromer/static/css/2.548a9565.chunk.css",
+    "static/js/2.c2f19210.chunk.js": "/designeromer/static/js/2.c2f19210.chunk.js",
+    "static/js/2.c2f19210.chunk.js.map": "/designeromer/static/js/2.c2f19210.chunk.js.map",
+    "index.html": "/designeromer/index.html",
+    "static/css/2.548a9565.chunk.css.map": "/designeromer/static/css/2.548a9565.chunk.css.map",
+    "static/css/main.36047582.chunk.css.map": "/designeromer/static/css/main.36047582.chunk.css.map",
+    "static/js/2.c2f19210.chunk.js.LICENSE.txt": "/designeromer/static/js/2.c2f19210.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.614ad1d2.js",
+    "static/css/2.548a9565.chunk.css",
+    "static/js/2.c2f19210.chunk.js",
+    "static/css/main.36047582.chunk.css",
+    "static/js/main.fb13018b.chunk.js"
+  ]
+}
